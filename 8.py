@@ -1,4 +1,5 @@
 """
+binary to decimal
  1101
 
 = 2^3 2^2 2^1 2^0

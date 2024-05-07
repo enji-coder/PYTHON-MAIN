@@ -10,3 +10,4 @@ for k in range(len(dct)):  # 0,3  # 0 - 1 - 2
     v = dct[v]
 
 print(v)
+#three
