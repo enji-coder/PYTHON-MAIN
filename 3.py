@@ -1,4 +1,5 @@
 # decimal to binary 
+
 n = 27
 b = bin(n)[2:]
 print(b)
